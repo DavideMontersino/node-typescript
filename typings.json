@@ -1,0 +1,11 @@
+{
+  "ambientDependencies": {
+    "async": "github:DefinitelyTyped/DefinitelyTyped/async/async.d.ts#a940132c9667d664811a8aea16a09618ff3d40fe",
+    "bluebird": "github:DefinitelyTyped/DefinitelyTyped/bluebird/bluebird.d.ts#8d852210cf8378ac5fe11380b5d1d17f2e5b0968",
+    "form-data": "github:DefinitelyTyped/DefinitelyTyped/form-data/form-data.d.ts#bb1b99052bf1d697f0368fbff56898bc1f5a525c",
+    "lodash": "github:DefinitelyTyped/DefinitelyTyped/lodash/lodash.d.ts#e69fe60f2d6377ea4fae539493997b098f52cad1",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#1c56e368e17bb28ca57577250624ca5bd561aa81",
+    "request": "github:DefinitelyTyped/DefinitelyTyped/request/request.d.ts#e252a088123eb595d9d772eb373f41c084360278",
+    "request-promise": "github:DefinitelyTyped/DefinitelyTyped/request-promise/request-promise.d.ts#14cc56099a4c90926839e406a87d36596d093708"
+  }
+}
