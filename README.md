@@ -27,9 +27,22 @@ npm install command, you'll need to issue a typings install:
 
 ## Compiling and running
 
+
 To compile, use `tsc`.
 You can watch files by using `tsc -w`
 
-A shortcut has been added to run the application:
+To lint your files, use tslint:
+
+    tslint src/**/*.ts
+
+### Gulp
+
+You can also use gulp to keep your files linted and compiled:
+
+    gulp watch
+
+### Running
+
+You can either call `node app.js` or use the provided shortcut:
 
     ./app.js

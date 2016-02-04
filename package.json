@@ -17,5 +17,12 @@
     "async": "^1.5.2",
     "lodash": "^4.2.1",
     "request-promise": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-tslint": "^4.3.1",
+    "gulp-typescript": "^2.10.0",
+    "tslint": "^3.3.0",
+    "typescript": "^1.7.5"
   }
 }
