@@ -7,11 +7,11 @@
 import * as _ from 'lodash';
 
 interface Message {
-  index: number,
-  value: string
+  index: number;
+  value: string;
 }
 
-var messages: Array<Message> = [
+let messages: Array<Message> = [
   {
     index: 0,
     value: 'hello'
@@ -20,7 +20,7 @@ var messages: Array<Message> = [
     index: 0,
     value: 'world'
   }
-]
+];
 
 _.forEach(messages, (message) => {
   console.log(message.value);
